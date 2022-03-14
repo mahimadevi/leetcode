@@ -18,7 +18,7 @@ public:
     
     int getProduct(int k) {
         int size = v.size();
-        if((size-k-1)<0)
+        if((size-1)<k)
             return 0;
         return (v.back()/(v[v.size()-1-k]));
     }
@@ -30,3 +30,7 @@ public:
  * obj->add(num);
  * int param_2 = obj->getProduct(k);
  */
+
+/*for better understanding:
+https://www.youtube.com/watch?v=EVLxXU9vuAE&ab_channel=LeadCodingbyFRAZ
+*/
