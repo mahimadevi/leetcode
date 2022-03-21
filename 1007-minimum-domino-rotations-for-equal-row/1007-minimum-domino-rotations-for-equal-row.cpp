@@ -35,3 +35,17 @@ public:
         return ab == -1 ? ba : ba == -1 ? ab : min(ab,ba);
     }
 };
+
+
+
+
+
+
+
+
+
+
+/*
+for better understanding:
+https://www.youtube.com/watch?v=mnYHDE9Kk9s&ab_channel=Pepcoding
+*/
