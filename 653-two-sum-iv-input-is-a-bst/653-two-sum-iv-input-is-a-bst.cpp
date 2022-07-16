@@ -17,7 +17,7 @@ public:
         reverse=isReverse;
         pushALL(root);
     }
-    bool hashNext(){
+    bool hasNext(){
         return !mystack.empty();
     }
     int next(){
@@ -55,7 +55,8 @@ public:
                 return true;
             else if(i+j<k)
                 i=l.next();
-            else j=r.next();
+            else 
+                j=r.next();
             
         }
         return false;
