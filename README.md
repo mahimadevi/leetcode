@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mahimadevi/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mahimadevi/leetcode/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahimadevi/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -125,5 +126,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mahimadevi/leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
