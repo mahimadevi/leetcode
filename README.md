@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mahimadevi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/mahimadevi/leetcode/tree/master/0605-can-place-flowers) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mahimadevi/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mahimadevi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/mahimadevi/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/mahimadevi/leetcode/tree/master/2465-shifting-letters-ii) |
