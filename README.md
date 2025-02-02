@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/mahimadevi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/mahimadevi/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
@@ -107,4 +108,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/mahimadevi/leetcode/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
