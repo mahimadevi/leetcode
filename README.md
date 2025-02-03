@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/mahimadevi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/mahimadevi/leetcode/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/mahimadevi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimadevi/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/mahimadevi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3721-count-mentions-per-user](https://github.com/mahimadevi/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
@@ -190,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/mahimadevi/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/mahimadevi/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
