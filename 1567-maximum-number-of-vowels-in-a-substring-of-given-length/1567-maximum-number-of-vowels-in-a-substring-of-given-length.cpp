@@ -18,7 +18,7 @@ public:
         // Step 3: Slide the window across the string
         for (int i = k; i < s.size(); i++) {
             // If the new character is a vowel, increment the count
-            if (vowels.count(s[i])) {
+            if (vowels.count(s[i])) { 
                 windowVowelCount++;
             }
             // If the character being left behind is a vowel, decrement the count
@@ -33,3 +33,9 @@ public:
         return maxVowelCount;
     }
 };
+
+/*vowels.count(s[i]) : 
+vowels is an unordered_set<char> that contains the vowels: {'a', 'e', 'i', 'o', 'u'}.
+The count() method is a function provided by the unordered_set (and other STL containers like set and map).
+vowels.count(s[i]) checks if the character s[i] exists in the vowels set.
+*/
