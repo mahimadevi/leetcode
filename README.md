@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/mahimadevi/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mahimadevi/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mahimadevi/leetcode/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahimadevi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mahimadevi/leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -201,6 +202,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mahimadevi/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mahimadevi/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/mahimadevi/leetcode/tree/master/2470-removing-stars-from-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/mahimadevi/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
