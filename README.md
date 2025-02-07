@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mahimadevi/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mahimadevi/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/mahimadevi/leetcode/tree/master/3429-special-array-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mahimadevi/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3721-count-mentions-per-user](https://github.com/mahimadevi/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Depth-First Search
 |  |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimadevi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimadevi/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mahimadevi/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/mahimadevi/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimadevi/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/mahimadevi/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/mahimadevi/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3721-count-mentions-per-user](https://github.com/mahimadevi/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Dynamic Programming
 |  |
