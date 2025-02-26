@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahimadevi/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimadevi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mahimadevi/leetcode/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahimadevi/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/mahimadevi/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mahimadevi/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/mahimadevi/leetcode/tree/master/2107-find-unique-binary-string) |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahimadevi/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahimadevi/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
 |  |
 | ------- |
