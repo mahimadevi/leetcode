@@ -5,14 +5,18 @@
  * @return {Function}
  */
 var cancellable = function(fn, args, t) {
-    // cancelFn function//
-    const cancelFn = function (){
-      clearTimeout(timer);
-  };
-  const timer = setTimeout(()=>{
-      fn(...args)
-  }, t);
-  return cancelFn ;
+    // Schedule the function fn to be executed after t milliseconds
+    const timeoutId = setTimeout(() => {
+        fn(...args);
+    }, t);
+
+    // Define the cancelFn function
+    const cancelFn = () => {
+        clearTimeout(timeoutId); // Cancel the execution of fn
+    };
+
+    // Return the cancelFn function
+    return cancelFn;
 };
 
 /**
