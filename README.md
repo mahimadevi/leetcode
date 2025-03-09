@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mahimadevi/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/mahimadevi/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mahimadevi/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
