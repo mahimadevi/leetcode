@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mahimadevi/leetcode/tree/master/0437-path-sum-iii) |
 | [0684-redundant-connection](https://github.com/mahimadevi/leetcode/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
@@ -305,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mahimadevi/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mahimadevi/leetcode/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
