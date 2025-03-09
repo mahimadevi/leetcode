@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/mahimadevi/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahimadevi/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahimadevi/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Sliding Window
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Number Theory
 |  |
