@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahimadevi/leetcode/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/mahimadevi/leetcode/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/mahimadevi/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mahimadevi/leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mahimadevi/leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -343,4 +345,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/mahimadevi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/mahimadevi/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
