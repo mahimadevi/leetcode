@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/mahimadevi/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/mahimadevi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mahimadevi/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2340-total-appeal-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mahimadevi/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/mahimadevi/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/mahimadevi/leetcode/tree/master/2465-shifting-letters-ii) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/mahimadevi/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/mahimadevi/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mahimadevi/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2340-total-appeal-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimadevi/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mahimadevi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/mahimadevi/leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mahimadevi/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/mahimadevi/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2340-total-appeal-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/2340-total-appeal-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
