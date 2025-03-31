@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/mahimadevi/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/mahimadevi/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/mahimadevi/leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mahimadevi/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/mahimadevi/leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/mahimadevi/leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/mahimadevi/leetcode/tree/master/0854-making-a-large-island) |
+| [0871-keys-and-rooms](https://github.com/mahimadevi/leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/mahimadevi/leetcode/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/mahimadevi/leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/mahimadevi/leetcode/tree/master/0684-redundant-connection) |
+| [0871-keys-and-rooms](https://github.com/mahimadevi/leetcode/tree/master/0871-keys-and-rooms) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/mahimadevi/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/mahimadevi/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/mahimadevi/leetcode/tree/master/2793-count-the-number-of-complete-components) |
