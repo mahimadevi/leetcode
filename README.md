@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/mahimadevi/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/mahimadevi/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/mahimadevi/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/mahimadevi/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/mahimadevi/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/mahimadevi/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3721-count-mentions-per-user](https://github.com/mahimadevi/leetcode/tree/master/3721-count-mentions-per-user) |
@@ -433,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mahimadevi/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2998-count-symmetric-integers](https://github.com/mahimadevi/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Topological Sort
 |  |
 | ------- |
