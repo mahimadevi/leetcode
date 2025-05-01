@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/mahimadevi/leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2340-total-appeal-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/2340-total-appeal-of-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/mahimadevi/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [2434-design-a-number-container-system](https://github.com/mahimadevi/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mahimadevi/leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/mahimadevi/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/mahimadevi/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0969-number-of-recent-calls](https://github.com/mahimadevi/leetcode/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/mahimadevi/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2434-design-a-number-container-system](https://github.com/mahimadevi/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Queue
 |  |
 | ------- |
@@ -491,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2434-design-a-number-container-system](https://github.com/mahimadevi/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/mahimadevi/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/mahimadevi/leetcode/tree/master/2681-put-marbles-in-bags) |
 ## Combinatorics
@@ -503,4 +506,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mahimadevi/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/mahimadevi/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/mahimadevi/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
