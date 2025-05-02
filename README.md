@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/mahimadevi/leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mahimadevi/leetcode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/mahimadevi/leetcode/tree/master/0649-dota2-senate) |
+| [0868-push-dominoes](https://github.com/mahimadevi/leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/mahimadevi/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mahimadevi/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/mahimadevi/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/mahimadevi/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mahimadevi/leetcode/tree/master/0443-string-compression) |
+| [0868-push-dominoes](https://github.com/mahimadevi/leetcode/tree/master/0868-push-dominoes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mahimadevi/leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/mahimadevi/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mahimadevi/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -355,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/mahimadevi/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mahimadevi/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/mahimadevi/leetcode/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/mahimadevi/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mahimadevi/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
