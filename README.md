@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/mahimadevi/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1036-rotting-oranges](https://github.com/mahimadevi/leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/mahimadevi/leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mahimadevi/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1319-unique-number-of-occurrences](https://github.com/mahimadevi/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1364-tuple-with-same-product](https://github.com/mahimadevi/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/mahimadevi/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/mahimadevi/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/mahimadevi/leetcode/tree/master/0649-dota2-senate) |
 | [0797-rabbits-in-forest](https://github.com/mahimadevi/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/mahimadevi/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/mahimadevi/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/mahimadevi/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/mahimadevi/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
