@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-alternating-groups-ii](https://github.com/mahimadevi/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mahimadevi/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/mahimadevi/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/mahimadevi/leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mahimadevi/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3721-count-mentions-per-user](https://github.com/mahimadevi/leetcode/tree/master/3721-count-mentions-per-user) |
 ## Depth-First Search
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/mahimadevi/leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/mahimadevi/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2915-count-of-interesting-subarrays](https://github.com/mahimadevi/leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/mahimadevi/leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
